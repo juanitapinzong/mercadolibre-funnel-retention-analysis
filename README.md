@@ -91,12 +91,63 @@ The analysis focused on the following conversion funnel:
 
 ## Key Insights
 
-Example insights (replace with your actual results later):
+### Funnel Performance
 
-- The largest drop-off occurs between **add_to_cart and begin_checkout**, suggesting friction during the checkout initiation process.
-- Mobile users show lower conversion rates compared to desktop users.
-- Paid search generates high traffic but lower purchase conversion.
-- Retention drops significantly after **Day 7**, indicating that early engagement is critical for long-term retention.
+The largest drop-off in the purchase funnel occurs between **select_item and add_to_cart**.
+
+- 76.9% of users select a product.
+- Only 11.0% add a product to the cart.
+
+This represents a drop of **−65.9 percentage points**, indicating significant friction between product consideration and purchase intent.
+
+Final purchase conversion is relatively low at approximately **1.25% of users reaching purchase**.
+
+Conversion performance also varies across countries:
+
+- **Mexico (2.48%)** and **Peru (1.82%)** show the highest purchase conversion.
+- **Brazil (0.68%)** shows weaker conversion.
+- **Colombia and Ecuador reach the payment stage but do not convert to purchase.**
+- **Paraguay shows no conversions after checkout.**
+
+This suggests that checkout, payment options, and logistics may be key friction points in several markets.
+
+---
+
+### Retention Insights
+
+User activation is strong during the first week but declines rapidly afterward.
+
+Retention rates for users registered between Jan 1 and Jun 1:
+
+- **D7:** 86%
+- **D14:** 55%
+- **D21:** 25%
+- **D28:** 2.6%
+
+This indicates that while users initially engage with the platform, **long-term engagement drops sharply after the second week**.
+
+Retention patterns are similar across countries, suggesting that the main issue is **product experience rather than market-specific behavior**.
+
+Countries with slightly stronger long-term retention include:
+
+- **Peru (3.2%)**
+- **Mexico (3.1%)**
+
+---
+
+### Business Recommendations
+
+Based on the analysis, the most impactful improvement would be optimizing the transition between **select_item → add_to_cart** by:
+
+- improving product page clarity
+- displaying shipping costs earlier
+- strengthening trust signals (reviews, guarantees)
+
+To improve retention, the platform should focus on **post-signup engagement between Day 7 and Day 21**, using:
+
+- personalized recommendations
+- second-purchase incentives
+- remarketing campaigns
 
 ---
 
