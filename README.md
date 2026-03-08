@@ -151,9 +151,27 @@ To improve retention, the platform should focus on **post-signup engagement betw
 
 ---
 
-## Dashboard / Results
+## Results / Dashboard
 
-(Add screenshots of funnel charts or retention cohort tables here)
+### Funnel Conversion Rates
+
+The overall conversion funnel shows how users progress through each stage of the purchase journey, from product discovery to final purchase.
+
+![Funnel Conversion](funnel_conversion.png)
+
+
+### Funnel Performance by Country
+
+Conversion performance varies across markets, revealing differences in user behavior and potential friction points during the purchasing process.
+
+![Funnel by Country](funnel_by_country.png)
+
+
+### User Retention by Country
+
+Retention analysis shows strong early engagement but a sharp decline in activity after the second week.
+
+![Retention by Country](retention_by_country.png)
 
 ---
 
