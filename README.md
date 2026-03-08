@@ -62,7 +62,18 @@ Key fields:
 - Data aggregation and CTEs
 
 ---
+## Skills Demonstrated
 
+- SQL
+- Funnel analysis
+- Conversion rate analysis
+- Cohort retention analysis
+- Product analytics
+- Data aggregation with CTEs
+- Business insight generation
+
+---
+  
 ## Funnel Stages
 
 The analysis focused on the following conversion funnel:
